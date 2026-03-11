@@ -1,6 +1,6 @@
 # Programming Cheatsheet
 
-## Aruino
+## Arduino
 
 ### Libraries
 - [Wire](./Arduino/Libraries/Wire)
