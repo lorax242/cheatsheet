@@ -7,7 +7,10 @@ const section = (text, items, collapsed = true) => ({
 
 export const sidebar = [
 
-  section ("Programovani / IT", [
+
+  section("Programovani / IT", [
+
+// Arduino    
       section("Arduino", [
             
           section("Communication", [
@@ -42,7 +45,7 @@ export const sidebar = [
 
 
 
-
+// Cpp
         section("Cpp", [
           section("Libraries", [
             page("Wire", "/Arduino/Libraries/Wire")
@@ -54,25 +57,36 @@ export const sidebar = [
           
           ])
         ]),
-        
 
 
 
-
-        section("Ostatni", [
-            page("tvorba tohoto dokumentu", "/Ostatni/setupVScode")
-        ]),
-        
-        section("Communication", [
-            page("I2C", "/Arduino/Communication/I2C"),
-            page("SPI", "/Arduino/Communication/SPI"),
-            page("Serial", "/Arduino/Communication/Serial")
+// VScode
+        section("VScode", [
+          section("/", [
+            page("VitePress", "/VScode/tvorba_teto_dokumentace"),
+            page("Rychlotvorba slozek(funkce)", "/VScode/zjednoduseni_prace_s_kodem")
+          ]),
+          section("//", [
           
-          
+          ]),
         ]),
+
+
+//Git
+        section("Git", [
+          section("/", [
+            //page("Rychlotvorba slozek(funkce)", "/VScode/zjednoduseni_prace_s_kodem")
+          ]),
+          section("//", [
+          
+          ]),
+        ]),
+
         
   ]),
   
+
+
 
 
   section("Osobnni", [
