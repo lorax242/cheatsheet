@@ -63,8 +63,8 @@ export const sidebar = [
 // VScode
         section("VScode", [
           section("/", [
-            page("VitePress", "/VScode/tvorba_teto_dokumentace"),
-            page("Rychlotvorba slozek(funkce)", "/VScode/zjednoduseni_prace_s_kodem")
+            page("VitePress", "/VScode/VitePress_dokumentace"),
+            page("Rychlotvorba slozek(funkce)", "/VScode/zjednodusene-pridani-slozky")
           ]),
           section("//", [
           
@@ -75,7 +75,10 @@ export const sidebar = [
 //Git
         section("Git", [
           section("/", [
-            //page("Rychlotvorba slozek(funkce)", "/VScode/zjednoduseni_prace_s_kodem")
+            page("Instalace Gitu", "/Git/Instalace-Gitu"),
+            page("Commands", "/Git/Commands"),
+            //page("Základní příkazy", "/Git/Zakladni_prikazy"),
+            //page("Vytvoření repozitáře", "/Git/Vytvoreni_repozitare"),
           ]),
           section("//", [
           
