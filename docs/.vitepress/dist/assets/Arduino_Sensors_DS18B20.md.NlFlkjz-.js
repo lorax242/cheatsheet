@@ -1,1 +1,0 @@
-import{_ as e,o as t,c as r}from"./chunks/framework.EHGTsUvI.js";const m=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"Arduino/Sensors/DS18B20.md","filePath":"Arduino/Sensors/DS18B20.md"}'),o={name:"Arduino/Sensors/DS18B20.md"};function s(n,a,c,d,i,p){return t(),r("div")}const f=e(o,[["render",s]]);export{m as __pageData,f as default};

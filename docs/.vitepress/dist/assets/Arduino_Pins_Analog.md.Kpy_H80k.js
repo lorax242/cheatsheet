@@ -1,0 +1,1 @@
+import{_ as e,o as n,c as t}from"./chunks/framework.BZohXCq9.js";const _=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"Arduino/Pins/Analog.md","filePath":"Arduino/Pins/Analog.md"}'),a={name:"Arduino/Pins/Analog.md"};function o(r,s,i,c,d,l){return n(),t("div")}const m=e(a,[["render",o]]);export{_ as __pageData,m as default};

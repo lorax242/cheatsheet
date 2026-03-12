@@ -1,4 +1,4 @@
-import { sidebar } from "./sidebar.mjs"
+import { sidebar } from "./slidebar.mjs"
 
 export default {
   title: "Programming Cheatsheet",
@@ -9,8 +9,8 @@ export default {
       provider: "local"
     },
      
-    themeConfig: {
+    
       sidebar
-    }
+    
   }
 }

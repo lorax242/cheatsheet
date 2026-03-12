@@ -1,1 +1,0 @@
-import{_ as e,o as r,c as t}from"./chunks/framework.EHGTsUvI.js";const m=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"Cpp/Arrays_Vectors.md","filePath":"Cpp/Arrays_Vectors.md"}'),a={name:"Cpp/Arrays_Vectors.md"};function s(o,c,p,n,_,d){return r(),t("div")}const f=e(a,[["render",s]]);export{m as __pageData,f as default};

@@ -26,3 +26,9 @@
 - [DHT22](./Arduino/Sensors/DHT22)
 - [DS18B20](./Arduino/Sensors/DS18B20)
 - [BMP280](./Arduino/Sensors/BMP280)
+
+
+
+
+## Ostatni
+-[setupVScode](./Ostatni/VitePress_dokumentace.md)

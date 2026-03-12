@@ -1,0 +1,1 @@
+import{_ as e,o as r,c as t}from"./chunks/framework.BZohXCq9.js";const m=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"Arduino/Libraries/SPI.md","filePath":"Arduino/Libraries/SPI.md"}'),a={name:"Arduino/Libraries/SPI.md"};function o(i,s,n,c,d,p){return r(),t("div")}const f=e(a,[["render",o]]);export{m as __pageData,f as default};
