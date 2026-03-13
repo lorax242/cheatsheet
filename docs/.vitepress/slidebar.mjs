@@ -127,7 +127,7 @@ export const sidebar = [
       ]),
 
       section("Octavia 1", [
-        page("Dokumentace", "/Ostatni/manual"),
+        page("Dokumentace", "/Ostatni/Auta/Octavia"),
 
       ]),
     ]),
