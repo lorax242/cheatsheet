@@ -106,11 +106,16 @@ export const sidebar = [
   ]),
 
 
-  section("Skola", [
+  section("Auta", [
     
-    section("//", [
+    section("Dokumenty", [
 
-      section("///", [
+      section("Fabia 3", [
+
+      ]),
+
+      section("Octavia 1", [
+        page("Dokumentace", "/Ostatni/manual"),
 
       ]),
     ]),
