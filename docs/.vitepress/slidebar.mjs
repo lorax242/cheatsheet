@@ -118,11 +118,13 @@ export const sidebar = [
   ]),
 
 
+
+// Auta
   section("Auta", [
     
-    section("Dokumenty", [
-
       section("Fabia 3", [
+        page("Dokumentace", "/Ostatni/Auta/Fabia3"),
+        
 
       ]),
 
@@ -131,7 +133,7 @@ export const sidebar = [
 
       ]),
     ]),
-  ]),
+
 
 
 
