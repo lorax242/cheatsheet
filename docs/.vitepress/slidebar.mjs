@@ -72,6 +72,18 @@ export const sidebar = [
         ]),
 
 
+// Linux
+        section("Linux", [
+          section("Prikazy", [
+            page("Prace se zlozkami/soubory(zaklad)", "/Linux/Prace se slozkami(zaklad)"),
+          ]),
+          section("//", [
+          
+          ]),
+        ]),
+
+
+
 //Git
         section("Git", [
           section("/", [
