@@ -1,0 +1,1 @@
+import{_ as a,o as t,c as e}from"./chunks/framework.BZohXCq9.js";const m=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"Ostatni/Auta/Fabia3.md","filePath":"Ostatni/Auta/Fabia3.md"}'),s={name:"Ostatni/Auta/Fabia3.md"};function n(r,i,o,c,p,_){return t(),e("div")}const f=a(s,[["render",n]]);export{m as __pageData,f as default};
