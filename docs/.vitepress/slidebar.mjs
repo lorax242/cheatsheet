@@ -75,12 +75,27 @@ export const sidebar = [
 // Linux
         section("Linux", [
           section("Prikazy", [
-            page("Prace se zlozkami/soubory(zaklad)", "/Linux/Prace se slozkami(zaklad)"),
+
+
+            section("Sprava", [
+            page("Timeshift", "/Linux/Prikazy/System/Timeshift"),
           ]),
-          section("//", [
+
+            section("Slozky a soubory", [
+            page("Prace se zlozkami/soubory(zaklad)", "/Linux/Prikazy/Slozky a Soubory/Prace se slozkami(zaklad)"),
+          ]),
+
+          ]),
+
+
+          section("System", [
+            page("Mint Live USB", "/Linux/Prikazy/System/Mint Live USB"),
+            page("Oprava bootu","Linux/Opravy/Oprava bootu"),
+
           
           ]),
         ]),
+      
 
 
 
@@ -98,6 +113,16 @@ export const sidebar = [
         ]),
 
         
+
+//IT
+        section("IT", [
+          section("Rychnovek", [
+            page("Nastaveni routeru", "/IT/Rychnovek/Nastaveni routeru"),
+            page("Commands", "/Git/Commands"),
+
+          ]),
+        ]),
+
   ]),
   
 
@@ -110,8 +135,8 @@ export const sidebar = [
       
 
       section("///", [
-        page("kucharka", "/Ostatni/pdf"),
-        page("VitePress","/Ostatni/VitePress_dokumentace")
+        page("Kucharka", "/Ostatni/Kucharka"),
+        page("VitePress","/Ostatni/VitePress_dokumentace"),
 
       ]),
     ]),
