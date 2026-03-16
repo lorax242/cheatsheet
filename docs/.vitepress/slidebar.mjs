@@ -44,7 +44,6 @@ export const sidebar = [
 
 
 
-
 // Cpp
         section("Cpp", [
           section("Libraries", [
@@ -79,28 +78,27 @@ export const sidebar = [
           ]),
           section("//", [
           
+
+// Markdown
+        section("Markdown", [
+          section("/", [
+            page("Styl_textu", "/Markdown/Styl_textu"),
+
           ]),
         ]),
-
-
+      ]),
 
 //Git
         section("Git", [
           section("/", [
             page("Instalace Gitu", "/Git/Instalace-Gitu"),
-            page("Commands", "/Git/Commands"),
+            page("Synchronizace", "/Git/Synchronizace"),
             //page("Základní příkazy", "/Git/Zakladni_prikazy"),
             //page("Vytvoření repozitáře", "/Git/Vytvoreni_repozitare"),
           ]),
-          section("//", [
-          
-          ]),
         ]),
-
-        
-  ]),
-  
-
+      ]),
+    ]),
 
 
 
