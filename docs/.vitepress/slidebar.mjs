@@ -71,6 +71,19 @@ export const sidebar = [
         ]),
 
 
+
+// Markdown
+        section("Markdown", [
+          section("/", [
+            page("Styl textu", "/Markdown/Styl textu"),
+
+          ]),
+          section("//", [
+          
+          ]),
+        ]),
+
+
 // Linux
         section("Linux", [
           section("Prikazy", [
@@ -103,8 +116,7 @@ export const sidebar = [
           section("/", [
             page("Instalace Gitu", "/Git/Instalace-Gitu"),
             page("Synchronizace", "/Git/Synchronizace"),
-            //page("Základní příkazy", "/Git/Zakladni_prikazy"),
-            //page("Vytvoření repozitáře", "/Git/Vytvoreni_repozitare"),
+
           ]),
         ]),
 
