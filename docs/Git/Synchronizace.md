@@ -295,6 +295,7 @@ Používá se pro kontrolu změn.
 # Základní workflow
 
 ## První nastavení projektu
+Je potreba otevrit prikazovy radek v dane slozce, kterou chceme pridat na GitHub.
 
 ```
 git init
