@@ -74,19 +74,29 @@ export const sidebar = [
 // Linux
         section("Linux", [
           section("Prikazy", [
-            page("Prace se zlozkami/soubory(zaklad)", "/Linux/Prace se slozkami(zaklad)"),
+
+
+            section("Sprava", [
+            page("Timeshift", "/Linux/Prikazy/System/Timeshift"),
           ]),
-          section("//", [
+
+            section("Slozky a soubory", [
+            page("Prace se zlozkami/soubory(zaklad)", "/Linux/Prikazy/Slozky a Soubory/Prace se slozkami(zaklad)"),
+          ]),
+
+          ]),
+
+
+          section("System", [
+            page("Mint Live USB", "/Linux/Prikazy/System/Mint Live USB"),
+            page("Oprava bootu","Linux/Opravy/Oprava bootu"),
+
           
-
-// Markdown
-        section("Markdown", [
-          section("/", [
-            page("Styl_textu", "/Markdown/Styl_textu"),
-
           ]),
         ]),
-      ]),
+      
+
+
 
 //Git
         section("Git", [
@@ -97,8 +107,21 @@ export const sidebar = [
             //page("Vytvoření repozitáře", "/Git/Vytvoreni_repozitare"),
           ]),
         ]),
-      ]),
-    ]),
+
+        
+
+//IT
+        section("IT", [
+          section("Rychnovek", [
+            page("Nastaveni routeru", "/IT/Rychnovek/Nastaveni routeru"),
+            page("Commands", "/Git/Commands"),
+
+          ]),
+        ]),
+
+  ]),
+  
+
 
 
 
@@ -108,19 +131,21 @@ export const sidebar = [
       
 
       section("///", [
-        page("kucharka", "/Ostatni/pdf"),
-        page("VitePress","/Ostatni/VitePress_dokumentace")
+        page("Kucharka", "/Ostatni/Kucharka"),
+        page("VitePress","/Ostatni/VitePress_dokumentace"),
 
       ]),
     ]),
   ]),
 
 
+
+// Auta
   section("Auta", [
     
-    section("Dokumenty", [
-
       section("Fabia 3", [
+        page("Dokumentace", "/Ostatni/Auta/Fabia3"),
+        
 
       ]),
 
@@ -129,7 +154,7 @@ export const sidebar = [
 
       ]),
     ]),
-  ]),
+
 
 
 
