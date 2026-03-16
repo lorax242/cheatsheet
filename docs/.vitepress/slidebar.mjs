@@ -75,11 +75,8 @@ export const sidebar = [
 // Markdown
         section("Markdown", [
           section("/", [
-            page("Styl textu", "/Markdown/Styl textu"),
+            page("Styl textu", "/Markdown/Text"),
 
-          ]),
-          section("//", [
-          
           ]),
         ]),
 
