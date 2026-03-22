@@ -167,7 +167,16 @@ export const sidebar = [
 
 
 
+// Skola
+  section("Skola", [
+    
+      section("LPT2", [
+        page("1. test", "/Skola/LPT2/1. test"),
+        
 
+      ]),
+
+    ]),
 
 
 
