@@ -1,0 +1,1 @@
+- [Skripta](/pdf/Skola_pdf/Skripta_LPT2.pdf)
