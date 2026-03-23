@@ -1,0 +1,27 @@
+/* =========================
+   📦 BOX PRO OBRÁZEK
+   ========================= */
+.img-box {
+  background: #c0d8db;      /* světle šedé pozadí za obrázkem */
+  padding: 12px;            /* mezera mezi obrázkem a okrajem boxu */
+  border-radius: 10px;      /* zaoblené rohy */
+  width: fit-content;       /* box má velikost podle obsahu (obrázku) */
+  margin: 0 auto;           /* vystředění boxu na stránce */
+}
+
+/* =========================
+   🖼️ OBRÁZEK UVNITŘ BOXU
+   ========================= */
+.img-box img {
+  width: 100%;              /* obrázek vyplní šířku boxu */
+  max-width: 600px;         /* maximální velikost obrázku (na velkých monitorech) */
+  height: auto;             /* zachování správného poměru stran */
+  display: block;           /* odstraní malé mezery pod obrázkem */
+}
+
+/* =========================
+   🌙 DARK MODE
+   ========================= */
+.dark .img-box {
+  background: #e3eec5;      /* tmavé pozadí pro dark mode */
+}

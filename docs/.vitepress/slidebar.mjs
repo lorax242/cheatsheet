@@ -37,7 +37,8 @@ export const sidebar = [
           section("Sensors", [
             page("BMP280", "/Arduino/Sensors/BMP280"),
             page("DHT22", "/Arduino/Sensors/DHT22"),
-            page("DS18B20", "/Arduino/Sensors/DS18B20")
+            page("DS18B20", "/Arduino/Sensors/DS18B20"),
+            page("MAX30102", "/Arduino/Sensors/MAX30102"),
           ]),
       ]),
 
@@ -76,7 +77,7 @@ export const sidebar = [
         section("Markdown", [
           section("/", [
             page("Styl textu", "/Markdown/Text"),
-
+            page("Obrázky", "/Markdown/Obrazek"),
           ]),
         ]),
 
