@@ -25,7 +25,8 @@ export const sidebar = [
           ]),
           
           section("Libraries", [
-            page("Wire", "/Arduino/Libraries/Wire")
+            page("Wire", "/Arduino/Libraries/Wire"),
+            page("U8g2lib", "/Arduino/Libraries/U8g2lib"),
           ]),
             
             section("Pins", [
