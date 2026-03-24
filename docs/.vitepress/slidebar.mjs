@@ -20,7 +20,7 @@ export const sidebar = [
             ]),
 
           section("Display", [
-            page("LCD", "/Arduino/Display/LCD_I2C"),
+            page("SH1106", "/Arduino/Display/SH1106"),
             page("OLED", "/Arduino/Display/OLED_U8g2"),
           ]),
           
