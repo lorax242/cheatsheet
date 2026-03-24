@@ -1,34 +1,41 @@
-# Programming Cheatsheet
+<div style="
+  background: linear-gradient(135deg, #0f172a, #1e3a8a);
+  color: white;
+  padding: 60px 20px;
+  border-radius: 20px;
+  text-align: center;
+">
 
-## Arduino
+  <h1 style="font-size: 2.5em; margin-bottom: 10px;">
+    Vstupní banner
+  </h1>
 
-### Libraries
-- [Wire](./Arduino/Libraries/Wire)
-- [U8g2](./Arduino/Libraries/U8g2)
-- [SPI](./Arduino/Libraries/SPI)
+  <p style="font-size: 1.2em; color: #cbd5f5; max-width: 600px; margin: auto;">
+    Moderní hero sekce pro prezentaci projektu, služby nebo produktu.
+  </p>
 
-### Communication
-- [I2C](./Arduino/Communication/I2C)
-- [SPI](./Arduino/Communication/SPI)
-- [Serial](./Arduino/Communication/Serial)
-- [Serial](./Arduino/Communication/UART)
+  <div style="margin-top: 30px;">
+    <a href="#" style="
+      background: #22d3ee;
+      color: black;
+      padding: 12px 25px;
+      border-radius: 10px;
+      text-decoration: none;
+      font-weight: bold;
+      margin-right: 10px;
+    ">
+      Začít
+    </a>
 
-### Display
-- [OLED U8g2](./Arduino/Display/OLED_U8g2)
-- [LCD I2C](./Arduino/Display/LCD_I2C)
+    <a href="#" style="
+      border: 1px solid white;
+      padding: 12px 25px;
+      border-radius: 10px;
+      text-decoration: none;
+      color: white;
+    ">
+      Více info
+    </a>
+  </div>
 
-### Pins
-- [Digital](./Arduino/Pins/Digital)
-- [Analog](./Arduino/Pins/Analog)
-- [PWM](./Arduino/Pins/PWM)
-
-### Sensors
-- [DHT22](./Arduino/Sensors/DHT22)
-- [DS18B20](./Arduino/Sensors/DS18B20)
-- [BMP280](./Arduino/Sensors/BMP280)
-
-
-
-
-## Ostatni
-
+</div>
