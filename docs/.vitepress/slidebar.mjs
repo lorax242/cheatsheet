@@ -114,6 +114,7 @@ export const sidebar = [
           section("/", [
             page("Instalace Gitu", "/Git/Instalace-Gitu"),
             page("Synchronizace", "/Git/Synchronizace"),
+            page("Přáce se složkami", "/Git/Uprava slozek"),
 
           ]),
         ]),
