@@ -73,14 +73,39 @@ export const sidebar = [
         ]),
 
 
+// LaTeX
+        section("LaTeX", [
+          page("Rychlý přehled", "/LaTeX/Rychly prehled"),
 
-// Markdown
-        section("Markdown", [
-          section("/", [
-            page("Styl textu", "/Markdown/Text"),
-            page("Obrázky", "/Markdown/Obrazek"),
+
+          section("Matematika", [
+            page("Rozcestnik", "/LaTeX/Matematika/Rozcestnik"),
+          ]),
+
+          section("Obrázky", [
+            page("Rozcestnik", "/LaTeX/Obrazky/Rozcestnik"),
+          ]),
+
+          section("Preambule", [
+            page("Rozcestnik", "/LaTeX/Preambule/Rozcestnik"),
+          ]),
+
+          section("Reference a okdazy", [
+            page("Rozcestnik", "/LaTeX/References/Rozcestnik"),
+          ]),
+
+          section("Tabulky", [
+            page("Rozcestnik", "/LaTeX/Tables/Rozcestnik"),
+          ]),
+
+          section("Titulní strana", [
+            page("Rozcestnik", "/LaTeX/Title_page/Rozcestnik"),
+          ]),
+
+
           ]),
         ]),
+
 
 
 // Linux
@@ -108,6 +133,14 @@ export const sidebar = [
         ]),
       
 
+// Markdown
+        section("Markdown", [
+          section("/", [
+            page("Styl textu", "/Markdown/Text"),
+            page("Obrázky", "/Markdown/Obrazek"),
+          ]),
+        ]),
+
 
 
 //Git
@@ -131,7 +164,7 @@ export const sidebar = [
           ]),
         ]),
 
-  ]),
+
   
 
 
