@@ -101,9 +101,6 @@ export const sidebar = [
           section("Titulní strana", [
             page("Rozcestnik", "/LaTeX/Title_page/Rozcestnik"),
           ]),
-
-
-          ]),
         ]),
 
 
@@ -163,8 +160,7 @@ export const sidebar = [
 
           ]),
         ]),
-
-
+]),
   
 
 
