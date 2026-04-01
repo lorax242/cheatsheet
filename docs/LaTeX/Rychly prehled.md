@@ -65,7 +65,7 @@ Sem se dává všechno globální:
 
 ---
 
-## 3. [Titulní stránka](Title_page/Rozcestnik) (titlepage.tex)
+## 3. [Titulní stránka](Title_page/Rozcestnik.md) (titlepage.tex)
 ```latex
 \begin{titlepage}
     \centering
@@ -131,7 +131,7 @@ E = mc^2
 
 ---
 
-## 6. [Obrázky](Obrazky/Rozcestnik)
+## 6. [Obrázky](Obrazky/Rozcestnik.md)
 
 \begin{figure}[h]
     \centering
@@ -143,7 +143,7 @@ E = mc^2
 
 ---
 
-## 7. [Odkazy a reference](References/Rozcestnik)
+## 7. [Odkazy a reference](References/Rozcestnik.md)
 ```latex
 \label{sec:uvod}
 \ref{sec:uvod}
