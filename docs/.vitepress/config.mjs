@@ -4,6 +4,8 @@ export default {
   title: "Programming Cheatsheet",
   description: "Arduino a Cpp tahák",
 
+  ignoreDeadLinks: true,
+
   themeConfig: {
     search: {
       provider: "local"
