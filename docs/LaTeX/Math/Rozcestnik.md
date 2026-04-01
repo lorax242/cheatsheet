@@ -1,0 +1,1 @@
+prvnii rovnice
