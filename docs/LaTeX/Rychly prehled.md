@@ -131,7 +131,19 @@ E = mc^2
 
 ---
 
-## 6. [Obrázky](Obrazky/Rozcestnik.md)
+## 6. [Tabulky](Tables/Rozcestnik.md)
+
+Tabulka se dělá pomocí prostředí:
+
+```latex
+\begin{tabular}{...}
+...
+\end{tabular}
+```
+
+---
+
+## 7. [Obrázky](Obrazky/Rozcestnik.md)
 
 \begin{figure}[h]
     \centering
@@ -143,7 +155,7 @@ E = mc^2
 
 ---
 
-## 7. [Odkazy a reference](References/Rozcestnik.md)
+## 8. [Odkazy a reference](References/Rozcestnik.md)
 ```latex
 \label{sec:uvod}
 \ref{sec:uvod}

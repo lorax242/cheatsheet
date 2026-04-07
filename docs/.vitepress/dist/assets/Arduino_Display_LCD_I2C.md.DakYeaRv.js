@@ -1,1 +1,0 @@
-import{_ as e,o as t,c as a}from"./chunks/framework.BZohXCq9.js";const l=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"Arduino/Display/LCD_I2C.md","filePath":"Arduino/Display/LCD_I2C.md"}'),r={name:"Arduino/Display/LCD_I2C.md"};function o(s,n,i,c,_,p){return t(),a("div")}const m=e(r,[["render",o]]);export{l as __pageData,m as default};
