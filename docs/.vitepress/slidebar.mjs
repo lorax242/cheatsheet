@@ -131,7 +131,7 @@ export const sidebar = [
     
           section("Programy", [
             section("Fotokoutek", [
-            page("Instalace a konfigurace", "/Linux/Fotobudka/Instalace_programu"),
+            page("Instalace a konfigurace", "/Linux/Fotobudka/Instalace programu"),
           ]),
           ]),
 
