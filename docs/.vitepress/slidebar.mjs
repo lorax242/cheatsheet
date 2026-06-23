@@ -127,6 +127,14 @@ export const sidebar = [
 
           
           ]),
+
+    
+          section("Programy", [
+            section("Fotokoutek", [
+            page("Instalace a konfigurace", "/Linux/Fotobudka/Instrukce_programu"),
+          ]),
+          ]),
+
         ]),
       
 
